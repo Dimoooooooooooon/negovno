@@ -1,7 +1,6 @@
 {
   "name": "mern-stack-api",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -18,5 +17,15 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.13.20",
     "nodemon": "^3.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dimoooooooooooon/negovno.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dimoooooooooooon/negovno/issues"
+  },
+  "homepage": "https://github.com/Dimoooooooooooon/negovno#readme",
+  "description": ""
 }
